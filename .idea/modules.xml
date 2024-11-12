@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Git Repo.iml" filepath="$PROJECT_DIR$/Git Repo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Junit/Junit.iml" filepath="$PROJECT_DIR$/Junit/Junit.iml" />
     </modules>
   </component>
 </project>

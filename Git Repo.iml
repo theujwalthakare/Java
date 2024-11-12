@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Conditional Statements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOP's Concepts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/programs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Advance_Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

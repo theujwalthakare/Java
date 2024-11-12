@@ -4,139 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd777b74-a2e9-49ba-b0b8-7bdc59a3eff8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Git Repo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Junit/Junit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP's Concepts/Collection/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP's Concepts/Collection/Array_vs_Linked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP's Concepts/Collection/LinkedList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/college.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/details.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Aggregation/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Arithmetic_operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/If_else.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/Mark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/Stud_Display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/currentAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/hierachical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/marks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/marks1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/player01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/programmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/sport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/sport1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Inheritance/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/JavaOut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/JavaVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/JavasBoiler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/JustPractice/BankPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/JustPractice/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Largest_of_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Odd_Even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Basketball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Cars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Football.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Rugby.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/SalaryCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Shaps_Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/TestOver1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/birds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/checkAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/motorcycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/playSport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/programmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/sports.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Polymorphism/vehicals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/PrintPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/AXIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Bike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Data_Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Honda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/ICICI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/SBI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Test_Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Test_Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/Test_Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Runtime_Polymorphism/circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/STUDENT1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/STUDENT21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/Z.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/static1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/test002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/ThisKeyword/test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/Type_conversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/User_input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/area_circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/else_if.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/final_keyword/Bike1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/final_keyword/final_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/final_keyword/method$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/final_keyword/method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-WORLD/final_keyword/test1.class" beforeDir="false" />
+    <list default="true" id="fd777b74-a2e9-49ba-b0b8-7bdc59a3eff8" name="Changes" comment="adding collection package">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP's Concepts/xyz/wrfewfw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git Repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Git Repo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -155,6 +45,12 @@
     &quot;accountId&quot;: &quot;11b5129a-e4b2-41c5-abdf-8ed0c5124b38&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -167,25 +63,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayList1.executor": "Run",
-    "Application.JavaOut.executor": "Run",
-    "Application.LinkedList1.executor": "Run",
-    "Application.PrintPattern.executor": "Run",
-    "Application.emp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_vs_Linked.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaOut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.emp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seyegte.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Git Repo/Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git Repo\Java\OOP's Concepts" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle Tasks" flag="true" />
+      <visibility group="Maven Goals" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+    </myKeys>
     <option name="myCommands">
       <command value="&quot;Enter String :&quot;" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array_vs_Linked">
+  <component name="RunManager" selected="Application.emp">
     <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.ArrayList1" />
       <module name="Git Repo" />
@@ -212,13 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOut" />
-      <module name="Git Repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.LinkedList1" />
       <module name="Git Repo" />
@@ -239,6 +153,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="emp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aggregation.emp" />
+      <module name="Git Repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aggregation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java" />
       <method v="2">
@@ -254,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.emp" />
         <item itemvalue="Application.Array_vs_Linked" />
         <item itemvalue="Application.LinkedList1" />
         <item itemvalue="Application.ArrayList1" />
         <item itemvalue="Application.PrintPattern" />
-        <item itemvalue="Application.JavaOut" />
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +198,38 @@
       <option name="presentableId" value="Default" />
       <updated>1731330576438</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding collection package">
+      <option name="closed" value="true" />
+      <created>1731388403534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731388403534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding collection package">
+      <option name="closed" value="true" />
+      <created>1731388430754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731388430754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding collection package" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding collection package" />
   </component>
 </project>
