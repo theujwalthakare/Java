@@ -32,7 +32,7 @@ public class library {
         book al2 = new book(122,"Maths",290.34);
         
         member m1 = new member(101,"Rahul",al);
-        member m2 = new member(121,"Manish",al2);
+        member m2 = new member(121,"Manisha",al2);
          
         m1.display();
         m2.display();
